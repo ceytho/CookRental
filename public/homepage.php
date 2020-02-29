@@ -15,12 +15,12 @@
 	
 	<div id="logo" class="container">
 		<h1><a href="#">CookRental</a></h1>
-		<p>You are cooked and looking for a car quickly, we are the solution.</p>
+		<p>You are looking for a car quickly, we are the solution.</p>
 	</div>
 	<div id="page" class="container">
 		<div>
 			<div class="entry">
-				<p>Below is our list of cars available for hire.<br>
+				<p style="text-align: center">Below is our list of cars available for hire.<br>
 					You will find all the details by clicking on "More details".</p>
 			</div>
 		</div>
